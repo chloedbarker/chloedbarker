@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:chloedbarkerr@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/chloedbarker"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/chloedbarker"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://chloedbarker.github.io"><img src="https://img.shields.io/badge/Portfolio-0F2B4A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -27,11 +27,11 @@ I'm a data scientist specializing in machine learning, predictive modeling, and 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E5B94?style=for-the-badge&logo=sas&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E5B94?style=for-the-badge)
 
 **Machine Learning & Data Libraries**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
@@ -40,10 +40,10 @@ I'm a data scientist specializing in machine learning, predictive modeling, and 
 
 **Data Visualization & BI**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![R Shiny](https://img.shields.io/badge/R%20Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**
@@ -51,10 +51,9 @@ I'm a data scientist specializing in machine learning, predictive modeling, and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **Core Methods:** Classification &amp; Regression · Clustering (K-Means, DBSCAN, Hierarchical) · Feature Engineering &amp; Cross-Validation · NLP (TF-IDF, Sentiment Analysis) · Time Series (ARIMA, ARUMA, VAR) · Hypothesis Testing &amp; A/B Testing · Bootstrap &amp; Permutation Inference
@@ -91,15 +90,6 @@ An end-to-end epidemiological data science study investigating whether naturally
 | [Machine Learning](https://chloedbarker.github.io/machine-learning/) | Clustering (K-Means, DBSCAN, Hierarchical), association rule mining (Apriori, FP-Growth) |
 | [Databases & SQL](https://chloedbarker.github.io/databases-sql/) | Relational database design, query optimization, ETL pipelines, geospatial mapping |
 | [Data Storytelling](https://chloedbarker.github.io/data-storytelling/) | Dashboards and visualizations in Tableau, Power BI, and R Shiny for non-technical audiences |
-
----
-
-### GitHub Analytics
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=chloedbarker&show_icons=true&hide_border=true&count_private=true&theme=default"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chloedbarker&layout=compact&hide_border=true&theme=default"/>
-</p>
 
 ---
 
