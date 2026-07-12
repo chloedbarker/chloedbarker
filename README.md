@@ -63,7 +63,7 @@ I'm a data scientist specializing in machine learning, predictive modeling, and 
 
 ### Education
 
-**Southern Methodist University** — M.S. in Data Science (Expected Aug 2026) · GPA: 3.97
+**Southern Methodist University** — M.S. in Data Science (Expected Aug 2026) · GPA: 3.97  
 **The University of Texas at Austin** — B.S.A. in Biology, Minor in Health Communication · GPA: 3.77
 
 ### Certifications
