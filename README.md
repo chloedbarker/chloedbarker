@@ -11,17 +11,16 @@
 
 ### About Me
 
-I'm a data scientist specializing in machine learning, predictive modeling, and statistical analysis, currently completing my **M.S. in Data Science at SMU** (GPA: 3.97, expected August 2026). I hold a **B.S. in Biology from UT Austin**, which gave me a strong foundation in research methodology and working with real, messy data. Using Python, R, and SQL, I build models, surface insights, and communicate findings clearly to both technical and non-technical audiences.
+I'm a data scientist specializing in machine learning, predictive modeling, and statistical analysis, currently completing my **M.S. in Data Science at SMU** (GPA: 3.97, expected August 2026). I hold a **B.S.A. in Biology from UT Austin**, which gave me a strong foundation in research methodology and working with real, messy data. Using Python, R, and SQL, I build models, surface insights, and communicate findings clearly to both technical and non-technical audiences.
 
-- 🎓 M.S. Data Science @ SMU · B.S. Biology @ UT Austin
-- 🏆 My MS capstone earned **Best Presentation** in SMU's MSDS program
-- 🔭 Currently exploring epidemiological modeling and geospatial analysis
-- 💼 Actively seeking full-time Data Science roles — let's connect!
-- 📫 Reach me at [chloedbarkerr@icloud.com](mailto:chloedbarkerr@icloud.com)
+-  M.S. Data Science @ SMU · B.S.A. Biology @ UT Austin
+-  My MS capstone earned Best Presentation in SMU's MSDS program
+-  Actively seeking full-time Data Science roles and would love to connect!
+-  Reach me at [chloedbarkerr@icloud.com](mailto:chloedbarkerr@icloud.com)
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Languages**
 
@@ -62,7 +61,19 @@ I'm a data scientist specializing in machine learning, predictive modeling, and 
 
 ---
 
-### 📌 Featured Project
+### Education
+
+**Southern Methodist University** — M.S. in Data Science (Expected Aug 2026) · GPA: 3.97
+**The University of Texas at Austin** — B.S.A. in Biology, Minor in Health Communication · GPA: 3.77
+
+### Certifications
+
+[![Best Capstone Presentation](https://img.shields.io/badge/SMU-Best%20Capstone%20Presentation-0F2B4A?style=flat-square)](https://chloedbarker.github.io/certifications/MSDS_Best_Capstone_Presentation_Certificate.pdf)
+[![DataCamp Certified Data Scientist](https://img.shields.io/badge/DataCamp-Certified%20Data%20Scientist-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://chloedbarker.github.io/certifications/Data_Scientist_Certificate.pdf)
+
+---
+
+### Featured Project
 
 **[Groundwater Lithium & Dementia Prevalence in Texas](https://chloedbarker.github.io/capstone/)** — MS Capstone, *Best Presentation Award*
 
@@ -72,7 +83,7 @@ An end-to-end epidemiological data science study investigating whether naturally
 
 ---
 
-### 💼 More Projects
+### More Projects
 
 | Project | Focus |
 |---|---|
@@ -83,19 +94,7 @@ An end-to-end epidemiological data science study investigating whether naturally
 
 ---
 
-### 🎓 Education
-
-**Southern Methodist University** — M.S. in Data Science (Expected Aug 2026) · GPA: 3.97
-**The University of Texas at Austin** — B.S.A. in Biology, Minor in Health Communication · GPA: 3.77
-
-### 📜 Certifications
-
-[![Best Capstone Presentation](https://img.shields.io/badge/SMU-Best%20Capstone%20Presentation-0F2B4A?style=flat-square)](https://chloedbarker.github.io/certifications/MSDS_Best_Capstone_Presentation_Certificate.pdf)
-[![DataCamp Certified Data Scientist](https://img.shields.io/badge/DataCamp-Certified%20Data%20Scientist-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://chloedbarker.github.io/certifications/Data_Scientist_Certificate.pdf)
-
----
-
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=chloedbarker&show_icons=true&hide_border=true&count_private=true&theme=default"/>
@@ -105,7 +104,7 @@ An end-to-end epidemiological data science study investigating whether naturally
 ---
 
 <p align="center">
-  I'm always open to conversations about data science, research, or new opportunities — feel free to reach out.
+  Please feel free to reach out!
 </p>
 
 <p align="center">
